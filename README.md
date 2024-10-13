@@ -1,2 +1,2 @@
 # AI
-My AI model projects developed using Python in Google Colab
+My AI model projects + lectures developed using Python in Google Colab
